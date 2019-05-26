@@ -78,7 +78,7 @@
 - cd blogen
 - .\scripts\activate
 - mkdir src && cd src
-- git clone https://github.com/learnwithcode/Building-a-blog-Application.git . <=notice include period
+- git clone https://github.com/Vineetsingh07/Building-A-Blog-Application.git . <=notice include period
 - pip install -r requirements.txt
 
 ##### open settings.py in src/mysite/ and uncomment postgres database settings and put your password of postgres you created above and add your smtp settings for share post by email
